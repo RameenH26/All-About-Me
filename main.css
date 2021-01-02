@@ -1,0 +1,65 @@
+body{
+  text-align: center;
+  background-color: black;
+     background-image: radial-gradient(yellow, orange, red);
+  background-repeat: cover;
+  height: 900px;
+}
+#kin{
+  border-radius: 50%;
+  width: 225px;
+  border: 2.5px dashed black;
+  margin-top: 100px;
+  margin-left: 512px;
+  margin-right: 512px;   
+}
+.line{
+  background-color: black;
+  border: 5px solid black;
+  width: 90px;
+  margin: auto;
+}
+p{
+  font-family: 'Pirata One';
+  font-size: 22px;
+}
+.menu{
+  list-style: none;
+  font-family: fantasy;
+  float: right;
+  top: 10px;
+  right: 30px;
+  cursor: pointer;
+  color: black;
+  
+}
+.link{
+  display: inline;
+  font-size: 34px;
+  margin: auto;
+  padding-top: 5px;
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-bottom: 5px;
+}
+.link:hover{
+  background-color: #cfcfcf;
+}
+
+#h02{
+    padding-top: 100;
+    margin-left: 512px;
+    margin-right: 512px;
+}    
+#h{
+    
+    margin-left: 512px;
+    margin-right: 512px;
+}
+a {
+   text-decoration: none;
+    color: white;
+}
+.big{
+    font-size: 80px;
+}
