@@ -63,3 +63,15 @@ a {
 .big{
     font-size: 80px;
 }
+.image{
+    width:450px;
+    height: 400px;
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+.image:hover{
+    transform: scale(0.9);
+}
+#cool{
+    font-family: 'Pirata One'
+}
