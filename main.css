@@ -5,6 +5,9 @@ body{
   background-repeat: cover;
   height: 900px;
 }
+.details{
+    color: darkolivegreen;
+}
 #kin{
   border-radius: 50%;
   width: 225px;
